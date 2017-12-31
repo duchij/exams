@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<exam>
+  <test>
+    <question>Hlavne mesto SR je:</question>
+    <answer id="0" correct="true">Bratislava</answer>
+    <answer id="1" correct="false">Praha</answer>
+    <answer id="2" correct="true">Londyn</answer>
+    <answer id="3" correct="false">New York</answer>
+  </test>
+
+  <test>
+    <question>Planeta zem:</question>
+    <answer id="0" correct="true">Je elipsoid</answer>
+    <answer id="1" correct="false">Je v suhvezdi draka</answer>
+    <answer id="2" correct="true">Je na nej zivot</answer>
+    <answer id="3" correct="false">Je prva planeta sustavy</answer>
+  </test>
+
+  <test>
+    <question>V zime byva u nas:</question>
+    <answer id="0" correct="true">Sneh</answer>
+    <answer id="1" correct="false">Teploty nad 30st </answer>
+    <answer id="2" correct="true">Poladovica</answer>
+    <answer id="3" correct="false">Nikdy sa netvoria zaveje</answer>
+  </test>
+  
+  
+</exam>
