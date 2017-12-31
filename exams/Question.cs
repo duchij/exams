@@ -40,7 +40,7 @@ namespace exams
             this.answ = new Answer[aLn];
 
            // int i = 0;
-
+           //naplnime datami a uz vieme ktora je spravna/nespravna z attributov.....
             foreach (XmlNode node in answers)
             {
 
